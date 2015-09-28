@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>
+            {{ site.name }}{% if page.title %} - {{ page.title }}{% endif %}
+        </title>
+
+        <link rel="stylesheet" href="{{ site.baseurl }}/stylez/main.css">
+    </head>
+    <body>
+        <div id=header>
+            <img src="images/me3.jpg" height="163" id=me>
+            <h1>{{ site.name }}</h1>
+            <p>
+                PhD Student <br />
+                Massachusetts Institute of Technology <br />
+                Computer Science and Artificial Intelligence Laboratory <br />
+                <a href="mailto:boston@csail.mit.edu">boston@csail.mit.edu</a>
+            </p>
+        </div>
+        {% include navigation.html %}
+        {{ content }}
+    </body>
+</html>

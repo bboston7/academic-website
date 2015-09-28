@@ -1,0 +1,7 @@
+name: Brett Boston
+email: "boston@csail.mit.edu"
+baseurl: /boston
+
+exclude:
+    - deploy.fish
+    - .gitignore

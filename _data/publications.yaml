@@ -1,0 +1,16 @@
+- title: Probability Type Inference for Flexible Approximate Programming
+  authors: Brett Boston, Adrian Sampson, Dan Grossman, and Luis Ceze
+  venue: OOPSLA 2015
+  type: conference
+  url: http://adriansampson.net/media/papers/decaf-oopsla2015.pdf
+
+- title: Quality Types for Approximate Programming
+  authors: Brett Boston
+  venue: SPLASH 2014
+  type: poster
+
+- title: Tuning Approximate Computations with Constraint-Based Type Inference
+  url: http://sampa.cs.washington.edu/wacas14/papers/boston.pdf
+  authors: Brett Boston, Adrian Sampson, Dan Grossman, and Luis Ceze
+  venue: WACAS 2014
+  type: workshop

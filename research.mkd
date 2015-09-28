@@ -1,0 +1,39 @@
+---
+navindex: 2
+layout: content
+title: research
+---
+
+## Publications ##
+
+### Conference Papers ###
+{% for paper in site.data.publications %}
+    {% if paper.type == 'conference' %}
+* ["{{ paper.title }}."]({{ paper.url }}) {{ paper.authors }}.
+  In {{ paper.venue }}.
+    {% endif %}
+{% endfor %}
+
+
+### Workshop Papers ###
+{% for paper in site.data.publications %}
+    {% if paper.type == 'workshop' %}
+* ["{{ paper.title }}."]({{ paper.url }}) {{ paper.authors }}.
+  In {{ paper.venue }}.
+    {% endif %}
+{% endfor %}
+
+### Posters ###
+{% for paper in site.data.publications %}
+    {% if paper.type == 'poster' %}
+* {% if paper.url %} ["{{ paper.title }}."]({{ paper.url }}) {% else %} "{{ paper.title }}." {% endif %}
+  {{ paper.authors }}.
+  In {{ paper.venue }}.
+    {% endif %}
+{% endfor %}
+
+## Awards ##
+{% for award in site.data.awards %}
+*  {{ award.type }},
+   {% if award.url %} [{{award.year}} {{ award.title }}]({{award.url}}) {% else %} {{award.year}} {{ award.title }} {% endif %}
+{% endfor %}

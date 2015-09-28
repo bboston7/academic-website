@@ -1,0 +1,44 @@
+body {
+    background-color: #1B676B;
+    color: #EAFDE6;
+    margin: auto;
+    width: 750px;
+    font-family: helvetica, arial, sans-serif;
+}
+
+a {
+    color: #BEF202;
+    text-decoration: none;
+}
+
+a:hover, a:focus {
+    color: #519548;
+    text-decoration: underline;
+}
+
+#nav {
+    text-align: center;
+    border-top: 1px solid #EAFDE6;
+    border-bottom: 1px solid #EAFDE6;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+/*
+h1 {
+    text-align: center;
+}
+*/
+
+.nav-item {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+#me {
+    float: right;
+}
+
+#header {
+    /* magic number to make things look even */
+    padding-bottom: 5.4333px;
+}

@@ -1,0 +1,8 @@
+---
+navindex: 4
+layout: content
+title: misc
+---
+
+I made a website that generates poetry in the style of a given poet.
+It's cleverly named [poem-gen](http://poem-gen.com).

@@ -6,3 +6,7 @@ title: misc
 
 I made a website that generates poetry in the style of a given poet.
 It's cleverly named [poem-gen](http://poem-gen.com).
+
+I occasionally recommend music on [my tumblog](http://funsafemath.tumblr.com).
+You can see more of the music I'm into on [my lastfm
+profile](http://www.last.fm/user/bboston7).

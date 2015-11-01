@@ -11,6 +11,9 @@ title: research
     {% if paper.type == 'conference' %}
 * ["{{ paper.title }}."]({{ paper.url }}) {{ paper.authors }}.
   In {{ paper.venue }}.
+  {% for extra in paper.extra %}
+    * {{ extra | replace: "BASE", site.baseurl }}
+  {% endfor %}
     {% endif %}
 {% endfor %}
 

@@ -3,6 +3,8 @@
   venue: OOPSLA 2015
   type: conference
   url: http://adriansampson.net/media/papers/decaf-oopsla2015.pdf
+  extra:
+      - "[Slides.](BASE/media/oopsla15/decaf-oopsla15-slides.pdf)"
 
 - title: Quality Types for Approximate Programming
   authors: Brett Boston

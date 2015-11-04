@@ -42,3 +42,7 @@ h1 {
     /* magic number to make things look even */
     padding-bottom: 5.4333px;
 }
+
+ul ul {
+    line-height: 0.5em;
+}

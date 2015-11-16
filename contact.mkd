@@ -4,7 +4,7 @@ layout: content
 title: contact
 ---
 
-Feel free to email me at [boston@csail.mit.edu](mailto:boston@csail.mit.edu).
+Feel free to email me at [{{ site.email }}](mailto:{{ site.email }}).
 
 Some of my code and personal projects can be found on
 [github](http://github.com/bboston7).

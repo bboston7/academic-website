@@ -1,0 +1,11 @@
+---
+navindex: 3
+layout: content
+title: blog
+---
+## Blog Posts ##
+
+{% for post in site.posts %}
+<h3 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+<p class="post-excerpt">{{ post.excerpt }}</p>
+{% endfor %}

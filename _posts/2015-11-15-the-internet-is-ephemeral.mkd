@@ -1,0 +1,70 @@
+---
+layout: post
+title: The Internet is Ephemeral
+excerpt:
+    As websites disapear, so does the content associated with it.
+    This post explores some differences between archival of web and print
+    media and calls for action to avoid the loss of information on today's
+    subcultures.
+---
+
+Well, not the internet itself, but rather the content within.
+I spent some time today at a
+[local zine library](http://www.papercutzinelibrary.org) that provided an
+awesome opportunity to explore various subcultures through independent
+publications.
+By the nature of zines, most of these publications had extremely limited
+distribution with just a few printed copies.
+However, as they are physical objects, print materials are easily collectable.
+That is to say, they cannot be removed from the library by the creator
+arbitrarily[^1].
+
+Although new zines are still being created, many subcultures now have a
+predominately online presence.
+While it is easy today to find antiwar pamphlets, joke Harvard newspapers, and
+anarchist guides from decades ago, it is unclear how much of the content
+produced today will still exist online 30, 50 or 100 years from now.
+Websites disappear frequently and with them their content is lost.
+This is entirely different from the print world where a publisher going out of
+business has no impact on their publications already in circulation.
+Although the loss of publishers or limited circulation can make some content
+hard to find, it does not completely destroy it.
+
+Of course, I'm not the first person to think of this.
+The [Internet Archive](https://archive.org/) catalogs web content like a
+library to preserve content long after it is removed from its original
+location[^2].
+However, the web is so large that many interesting works will still slip
+through the cracks.
+It is not obvious where effort should be focused to capture as much interesting
+information as possible.
+Moreover, it is impossible to know what we will find interesting about 2015 in
+the future.
+
+Rather than casting a wide net, some have begun archiving smaller portions of
+the internet.
+One of the best examples of this is [textfiles.com](http://textfiles.com) which
+catalogs text files from old bulletin board systems.
+Like physical zines, these files offer interesting insights into various
+subcultures from the mid-1980's.
+
+So, what should we do, and how can you help?
+Saving everything is impossible, but I recommend saving some things you come
+across on the web that you really enjoy.
+Blog posts, videos, music, even insightful forum posts and comments can be
+saved with little space on any modern computer.
+Then, if that content is removed for some reason you can always re-upload it to
+an archival site like the [Internet Archive](https://archive.org).
+It may be small, but it is better than nothing and future generations will
+thank you for it.
+
+[^1]:
+    That's not to say that physical medium doesn't have it's own problems.  A
+    fire could completely wipe out the library's collection, permanently erasing a
+    lot of content.
+    As a side note, if you know of an online archive of zines (or want to help me
+    create one) please [drop me a line](mailto:{{ site.email }}).
+
+[^2]:
+    Unfortunately, a copyright claim could wipe the information from the
+    internet altogether.

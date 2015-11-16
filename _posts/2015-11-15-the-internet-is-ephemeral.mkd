@@ -58,6 +58,8 @@ an archival site like the [Internet Archive](https://archive.org).
 It may be small, but it is better than nothing and future generations will
 thank you for it.
 
+______
+
 [^1]:
     That's not to say that physical medium doesn't have it's own problems.  A
     fire could completely wipe out the library's collection, permanently erasing a

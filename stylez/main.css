@@ -46,3 +46,11 @@ h1 {
 ul ul {
     line-height: 0.5em;
 }
+
+.post-title {
+    margin-bottom: 0px;
+}
+
+.post-excerpt {
+    margin-top: 0px;
+}

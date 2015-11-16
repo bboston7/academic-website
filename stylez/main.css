@@ -4,6 +4,7 @@ body {
     margin: auto;
     width: 750px;
     font-family: helvetica, arial, sans-serif;
+    text-align: justify;
 }
 
 a {

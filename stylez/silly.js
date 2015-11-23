@@ -1,6 +1,6 @@
 "use strict";
 
-var shift = 0;
+var shift = Math.floor(new Date().getTime() / 5000) % 360;
 
 function shift_links() {
     shift = (shift + 1) % 360;
@@ -13,5 +13,6 @@ function shift_links() {
 }
 
 window.onload = function() {
+    shift_links();
     setInterval(shift_links, 5000);
 }

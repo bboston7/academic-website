@@ -8,6 +8,7 @@ function shift_links() {
     var links = document.getElementsByTagName("a");
     for (var i = 0; i < links.length; ++i) {
         links[i].style.filter = filter;
+        links[i].style.WebkitFilter = filter;
     }
 }
 

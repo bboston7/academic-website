@@ -3,7 +3,12 @@ navindex: 3
 layout: content
 title: blog
 ---
-## Blog Posts ##
+<h2>
+  Blog Posts
+  <span style="float: right">
+    [<a href="{{ site.baseurl }}/blog.xml">Subscribe</a>]
+  </span>
+</h2>
 
 {% for post in site.posts %}
 <h3 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>

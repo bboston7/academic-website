@@ -1,6 +1,8 @@
 name: Brett Boston
 email: "boston@csail.mit.edu"
 baseurl: /boston
+url: https://people.csail.mit.edu
+author: Brett Boston
 
 exclude:
     - .gitignore

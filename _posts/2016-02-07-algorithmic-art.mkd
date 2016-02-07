@@ -1,0 +1,301 @@
+---
+layout: post
+title: Abstract Art in the Early Digital Age
+excerpt:
+    Early computer artists, such as Roman Verostko and Ben Laposky, created
+    algorithmic art with many themes paralleling those found in the abstract
+    expressionist and modernist movements. These artists created works that embrace
+    the limitations of their mediums and are entirely self-referential. Moreover,
+    early computer artists saw algorithmic art as a universal visual representation
+    of mathematics going so far as to as to claim that their work indexes
+    mathematics and computation. They explored profound content, such as the
+    inherent dualities of the world around us. Lastly, they paved the way for
+    modern computer graphics by inspiring computer scientists to explore the realm
+    of computer art and to envision a future in which any artist may employ the use
+    of a computer.
+---
+Before the age of the personal computer, computers were primarily available
+only to research facilities and large businesses. As such, their user base was
+comprised of mathematicians, scientists, and business professionals. Many early
+mathematical computers were programmed using punch cards and outputted to
+mathematical plotters, large machines that draw on graph paper much like a
+human would. With these new devices filling research labs around the country, a
+subset of mathematicians attempted to create art with them. The resulting works
+were created primarily with mathematical plotters, but others were created with
+oscilloscopes. Although these artists were the first to use computers,
+mathematicians have had a fascination with art for thousands of years.
+Pythagoras influenced Greek artists as far back as the 6th century BC to use
+aesthetically pleasing ratios in their art. With more tools at their disposal
+1960s mathematicians were able to explore the link between beauty and
+mathematics with much more nuance than ever before (Phillips 126). Early
+computer art was initially met with skepticism from the public who doubted
+whether something computer made could be called art to begin with. However,
+computer artists, such as Roman Verostko and Ben Laposky, created algorithmic
+art with many themes paralleling those found in the abstract expressionist and
+modernist movements. These artists created works that embrace the limitations
+of their mediums and are entirely self-referential. Moreover, early computer
+artists saw algorithmic art as a universal visual representation of mathematics
+going so far as to as to claim that their work indexes mathematics and
+computation. They explored profound content, such as the inherent dualities of
+the world around us. Lastly, they paved the way for modern computer graphics by
+inspiring computer scientists to explore the realm of computer art and to
+envision a future in which any artist may employ the use of a computer.
+
+
+<img src="{{site.baseurl}}/images/algo-art/verostko-plotter.png" style="width: 100%"/>
+Figure 1: Verostko, Roman. "Epigenetic Painting: Software As Genotype." Leonardo.
+23.1 (1990): 17-23. Print.
+
+Roman Verostko is known for his artwork created with a mathematical plotter. To
+create his art, Verostko modified brushes to fit where the plotter would
+normally hold its pen as seen in figure 1.
+Verostko, much like the abstract expressionists and the modernists,
+formalized plotter art to draw attention to its strengths, while acknowledging
+its weaknesses. He, "embraced the constructivist concept of a 'new reality'
+that could stand by itself as an art form without reference to other reality"
+(Verostko, "30 Years" 230). Historically, painting almost exclusively
+represented themes outside of itself. Even then, only a small subset of themes,
+such as religious scenes, were deemed acceptable for high art. The modernists
+abhorred this concept and gradually shifted toward paintings that were more
+self-referential in nature. That is, modernist paintings embraced the strengths
+and weaknesses of painting to create works that consisted of less conventional
+themes that were not painted to be realistic, but were stylized using line and
+color to emphasize qualities that are unique to painting. The abstract
+expressionists, much like Verostko, pushed this to its logical conclusion by
+creating paintings that entirely lacked reference to world outside of
+themselves. Verostko accomplished this by investigating forms that are unique
+to algorithmic drawing. He argues that these unique forms are created by
+form-generating power, variability and self-similarity of form, and tireless
+and extensive precision in drawing. Form-generating power is the idea that most
+algorithmic drawings require the use of functions that are too complex for any
+human to compute mentally. This factor means that setting parameters and
+programming the drawings is generally a trial and error process. Variability
+and self-similarity of form is the theory that changing a piece of code will
+have a unique effect on the algorithmic drawing, but the drawing will still be
+similar to the previous drawing. Thus, variability in a small part of the
+program can create a family of similar, but unique drawings. Tireless and
+extensive precision in drawing is the idea that the computer and plotter never
+get tired. They can draw with precision indefinitely, removing the unique
+artifacts created from drawing by hand (Verostko, "30 Years" 230-1). This
+conscious reflection on the forms that are unique to automatic drawing is the
+same attention to medium specificity that the abstract expressionists and the
+modernists valued.
+
+In addition to medium specificity, Verostko was interested in the, "apparent
+polarities of the human experience" (Verostko, "Epigenetic Painting" 19).
+However, he was most intrigued by the polarity between order and chaos, a theme
+that pervades all of his works. Verostko believed that the human experience was
+dictated by balancing control (order) and uncontrol (chaos). For example, an
+(unordered) impulse may give rise to an (ordered) conscious response. He
+believed that order and chaos were in a constant dance, pushing and pulling
+each other around an equilibrium point like a tide ebbing and flowing.
+Moreover, Vertosko connected control to life and uncontrol to death. This
+interest in the duality of control and uncontrol parallels Mark Rothko's
+interest in the duality of life and death, most notably seen in the Rothko
+chapel in which the viewer is faced with a painting representing an abstraction
+of life as they walk in and a painting representing an abstraction of death as
+they walk out. Rothko believed that all of our actions are motivated by a
+desire to avoid death. This idea is similar to Vertosko's idea that conscious
+actions are examples of control, which in turn is connected to life. He
+captured this relationship between control and uncontrol in software through
+formalization of the process behind expressing an art concept. Given that
+computers are very rigid, controlled systems, Vertosko introduced uncontrol to
+his work by adding randomness to his algorithms. More than adding uncontrol,
+Vertosko saw this addition of randomness as parallel to the use of automatic
+drawing by the surrealists and abstract expressionist. Where surrealists drew
+from the id and abstract expressionists drew from the collective unconscious,
+Vertosko's algorithmic art drew from the computer's pseudorandom number
+generator. Since computers are inherently deterministic they can not generate
+true random numbers. Instead, they take many inputs, such as sensor readings,
+to a mathematical function whose output only <em>appears</em> random to a
+human. Vertosko saw this use of the computer's pseudorandom number generator as
+a source of automatic drawing for the machine. He thought it, "yeilded insight
+into computerized automatic processes" (Verostko, "Epigenetic Painting" 20).
+In addition to randomly generating paintings, Verostko also randomly generated
+titles for his works such as <em>Your Joyous Alarm</em> and <em>Instantly
+Frayed Whimsy</em> (Verostko, "Epigenetic Painting", 17-23).
+
+<img src="{{site.baseurl}}/images/algo-art/osc1.png" style="width: 49%"/>
+<img src="{{site.baseurl}}/images/algo-art/osc2.png" style="width: 49%"/>  
+Figure 2: Left: Simple two input figure. Right: Oscillon 263, 1960.  
+Laposky, Ben F. "Oscillons: Electronic Abstractions." Leonardo. 2.4
+(1969): 345-354. Print.
+
+Like Verostko, Ben Laposky was interested in exploring the strengths and
+limitations of his medium, as well as identifying the meaning in his art.
+However, rather than using a mathematical plotter, Laposky made his algorithmic
+art using an oscilloscope. An oscilloscope is an instrument that takes an
+electrical signal as input and displays the signal's waveform on a small
+screen. By attaching separate wave generators to the vertical and horizontal
+inputs of the oscilloscope Laposky was able to generate much more complex
+patterns than he could with a single wave generator. One such pattern is the
+left figure in figure 2. He called the figures he produced Oscillons or
+electronic abstractions. For even more complex figures, like <em>Oscillon
+263</em> on the right of figure 2, Laposky chained multiple wave generators
+together in series or combined the outputs from multiple generators in
+parallel.
+Due to the limitations of the oscilloscope screen the Oscillons, "may be
+kinetic–they may pulsate in their parts, expanding and contracting, or change
+back and forth between two shapes" (Laposky 350). This kinetic effect is an
+artifact of the way waveforms are drawn on an oscilloscope. An oscilloscope
+screen draws a point by aiming a beam of electrons at a material coating the
+inside of the glass screen. This material is excited when struck by the
+electrons and lights up in response. To draw a figure, the beam traces the
+figure repeatedly. Limitations of our eyes and the fact that the material takes
+some time to dim creates the illusion of a static image. However, the
+complexity of various Oscillons exceeds the oscilloscope's capacity to draw a
+static image, thus resulting in a kinetic figure. Just as the abstract
+expressionists aimed for works that were medium specific, Laposky saw this
+kinetic quality of the Oscillons as benefit of the medium to be aimed for
+rather than a limitation to shy away from. In addition to the two dimentional
+screen, this kinetic factor adds time as a third dimension that is accentuated
+by the artifacts of tracing the Oscillon with an electron beam. In order for a
+figure to be an Oscillon, Laposky argues that it must have been composed by the
+conscious decision of an artist and may not be a naturally occurring form. That
+is to say, an Oscillon contains an imprint of the artist's thought. Lastly,
+Oscillons are, "visual manifestations of some of the basic invisible aspects
+of nature, such as the movement of electrons and energy fields" (Laposky 353).
+Just as many abstracts expressionists painted indices of the collective
+unconscious that invisibly affect every person, Laposky's Oscillons are indices
+of the powerful yet invisible forces of nature that compose the entire universe
+(Laposky 347-53).
+
+Although Verostko and Laposky are very much major characters of the
+algorithmic art movement, they certainly were not the only algorithmic artists
+at the time. Algorithmic artists explored themes of randomness, medium
+specificity, and self-referentiality. One group of such artists collectively
+referred to themselves as the Algorists. The Algorists were primarily
+mathematicians and programmers, but also consisted of artists like Manfred Mohr
+who came to the digital art scene from abstract expressionism and was self
+taught in computer science (Dietrich 162). Much like the abstract
+expressionists, the Algorists were curious about the strengths and weaknesses
+of computing as an artistic medium. Most commonly, they explored the,
+"relationship between rule-based systems and randomness" (Phillips 126). This
+fascination with the contrast between the procedural and the random is very
+similar to Verostko's artistic interests in the duality of control and
+uncontrol (Verostko, "Epigenetic Painting" 19-20).
+
+Although themes of randomness and computer specific features are the most
+present in the algorithmic art movement, other less popular themes can be
+found. Some artists, such as Charles Csuri, saw algorithmic art as enabling the
+artist to explore the consequences of creating a universe with physical laws
+different from the laws of our own universe. In doing so, these artists
+considered their work to be an exercise in science fiction. Other artists, such
+as Vera Molnar, embraced the nonhumanness of the computer. Molnar credited the
+computer with allowing her to, "go beyond the bounds of learning, cultural
+heritage, environment – in short, of the social thing, which we must consider
+to be our second nature" (Dietrich 162). By removing all social influences,
+Molnar's works are in line with Greenberg's beliefs that painting should be
+entirely self referential. Molnar's works are unable to refer outside of
+themselves because they lack external inputs altogether. Some artists, such as
+Hiroshi Kawano went so far as to claim that, "human standards of aesthetics
+are not applicable to computer art" (Dietrich 162), and therefore, humans must
+be careful to not impose their own sense of beauty on the computer. The
+programmer in this scenario plays the role of the teacher, or "meta-artist"
+and the computer becomes the artist. Harold Cohen similarly claimed that the
+programmer, "like a child, can only get in the way" (Dietrich 162). This act
+of stepping aside to allow the computer to express itself parallels Jackson
+Pollock acting as a channel for the collective unconscious without imposing
+himself on his works. Regardless of their motivations, all of these artists
+explored themes that were specific to their medium in a way similar to the
+abstract expressionists. Where the abstract expressionists deconstructed
+painting to its strengths and weaknesses, algorithmic artists similarly
+deconstructed computer art.
+
+Although algorithmic art was never popular by any means, it did draw the
+attention of some art critics. In an early showing of plotter art by Georg
+Nees, the audience questioned whether or not the drawings could be considered
+art, and if so, whether the artist was in fact Georg Nees or the computer he
+used. In response to this, the arranger of the exhibit labeled the pieces as
+artificial art. In his essay, "Art in the Time of the Artificial," Frierder
+Nake claims that this label is absurd as all art, human-made or otherwise, is
+artificial. That is, art is a purely man-made construct that does not exist in
+nature and is therefore, by definition, artificial. To address the fact that
+the art is virtual, Nake offers that, "virtuality is not the opposite of
+reality. It is part of reality! Virtual reality is the semiotic domain of
+reality" (Nake 164). That is, virtual reality, and therefore algorithmic
+art, exists as signs referring to real objects or concepts. To further define
+the process of creating computer art, Nake employs semiotic theory. First, an
+artist translates the referent to a sign. Then, the signifier is pulled apart
+from the sign as a detailed description of the referent. This signifier can
+then be translated to a computable structure. It is through combining and
+manipulating these structures that algorithmic art is created. Depending on the
+type of structures used, the result falls into two main categories. If the
+structures are derived from the real world, then the algorithmic transformation
+produces a new sign that is an abstraction of the inputs. However, if the
+structures are derived from the artist's imagination, the transformation
+produces a new sign that is a concretization of the inputs. Regardless of where
+the input structures came from, the output is an entirely new aesthetic sign
+consisting not of a signifier and signified, but of a calculating and
+calculated. Since these signs are produced computationally they do not refer to
+any physical object. In this sense, the computational signs are indices of the
+processes that created them. Therefore, any computer art that significantly
+manipulates its input signs is entirely self-referential, a property that is
+essential to abstract expressionism and modernism (Nake 163-4).
+
+Though algorithmic art failed to achieve any popular appeal, it had profound
+impacts on the future of computer art and the young field of computer graphics.
+One such example of this was an early emulation of grey scale printing invented
+by engineers at Bell Laboratories. While plotters worked well for painting,
+they lacked to ability to print images due to the fact that they could only
+print in strict black and white with no shades of grey in-between. That is, one
+could not vary the amount of black ink used in a mark. However, Ken Knowlton
+and Leon Harmon of Bell Labs discovered that by superimposing characters
+plotted on microfilm, they could trick the eye into seeing various shades of
+grey. By filling a small unit area with some amount of black while leaving the
+rest white, the eye will perceive that unit as grey. The ratio of black to
+white determines how light or dark the area is. This process allowed artists to
+create more complex forms entirely on the computer and simply print them out
+(Knowlton, Harmon 1-19).
+
+<p>Another example of the impact of early computer art can be found in Oskar
+Beckmann's studio computers. Beckmann began creating art using storage
+oscilloscopes but quickly became frustrated with the process and built a
+specialised computer for artists with his son. In the process, Beckmann
+theorised about what a computer for artistic design should accomplish and came
+up with a set of requirements for a "studio computer". These requirements
+included, "a computer for the artist's studio must be operated by the artist,
+without the 'detour' of programming" (Oberquelle, Beckmann 24). In short, the
+computer was designed to remove the technical background required to create
+computer art thus opening the field to non-programmers and non-mathematicians.
+(Oberquelle, Beckmann 20-30).</p>
+
+With the added abilities of these new technologies, computer art moved away
+from abstractions. This demonstrates that much of the abstract art created on
+the computer was done out of necessity as the limitations of the medium were
+too great to print forms that were representational of real objects. Moreover,
+the extremely primitive technology required the early algorithmic artists to
+philosophize about the strengths of their medium in a way similar to the
+modernists and abstract expressionists. Where many early algorithmic artists
+saw the unique forms produced by computers as essential, later artists like
+Beckmann found them to be annoying artifacts that limited their artistic
+expression. Modern computers have mostly followed Beckmann's vision of
+assisting artists rather than imposing their own "personality" onto the
+artwork.
+
+Regardless, the plotter art of Verostko balancing control and uncontrol, as
+well as the kinetic, pulsating Oscillons of Laposky and many more contributions
+from this small art movement exist as the culmination of an unlikely pairing of
+abstract art and mathematics. These artists explored themes that paralleled
+those of the abstract expressionists. They achieved a universal visual
+representation of mathematics by imaging waveforms, and incorporating
+pseudorandom number generators into their artwork. This universal
+representation was leveraged to explore profound content such as the duality of
+control and uncontrol. Lastly, these works were unquestionably medium specific
+as the algorithmic artists philosophized about why some computer outputs can be
+called art, and how to achieve these aesthetic forms. Though this artwork has
+been mostly forgotten, it paved the way for modern computer graphics in a time
+before the existence of digital displays.
+
+- - -
+
+## References ##
+
+* Dietrich, Frank. "Visual Intelligence: the First Decade of Computer Art (1965-1975)." <em>Ieee Computer Graphics and Applications</em>. 5.7 (n.d.): 33-45. Print.
+* Knowlton, Ken, and Leon Harmon. "Computer-produced Grey Scales." <em>Computer Graphics and Image Processing</em>. 1.1 (1972): 1-20. Print.
+* Laposky, Ben F. "Oscillons: Electronic Abstractions." <em>Leonardo</em>. 2.4 (1969): 345-354. Print.
+* Nake, Frieder. "Art in the Time of the Artificial." <em>Leonardo</em>. 31.3 (1998). Print.
+* Oberquelle, Horst, and Oskar Beckmann. "Beckmann's Studio Computers Specified for Early Computer Art." <em>Ieee Annals of the History of Computing</em>. 30.3 (2008): 20-31. Print
+* Phillips, Ann L. "The Algorists." <em>American Scientist</em>. 99.2 (2011). Print.
+* Verostko, Roman. "Epigenetic Painting: Software As Genotype." <em>Leonardo</em>. 23.1 (1990): 17-23. Print.
+* Verostko, Roman. "Form, Grace and Stark Logic: 30 Years of Algorithmic Drawing." <em>Leonardo</em>. 43.3 (2010): 230-231. Print.

@@ -4,9 +4,13 @@ layout: content
 title: misc
 ---
 
+I have a weekly radio show on [WMBR](https://wmbr.org) from 1 to 2am Thursday
+nights (Friday mornings?) called
+[Abstractions](http://wmbr.org/www/sched-thu#show4925).
+If you keep a more normal sleep schedule for some reason you can listen to old
+episodes on [the archives](http://wmbr.org/cgi-bin/arch?sort=name).
+Occasionally I'll recommend music on [my
+tumblog](http://funsafemath.tumblr.com).
+
 I made a website that generates poetry in the style of a given poet.
 It's cleverly named [poem-gen](http://poem-gen.com).
-
-I occasionally recommend music on [my tumblog](http://funsafemath.tumblr.com).
-You can see more of the music I'm into on [my lastfm
-profile](http://www.last.fm/user/bboston7).

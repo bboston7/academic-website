@@ -14,3 +14,6 @@ tumblog](http://funsafemath.tumblr.com).
 
 I made a website that generates poetry in the style of a given poet.
 It's cleverly named [poem-gen](http://poem-gen.com).
+
+[Follow me on Twitter](https://twitter.com/carl_cambridge) if you want way too
+many updates about things that don't matter.

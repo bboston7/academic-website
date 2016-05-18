@@ -1,6 +1,9 @@
 - title: UW CSE Best Senior Thesis Award
   year: 2015
   type: Winner
+  url: https://www.cs.washington.edu/students/ugrad/thesis_archive
+  extra:
+    - "[Thesis.](BASE/media/ugrad-thesis.pdf)"
 
 - title: CRA Outstanding Undergraduate Research Award
   url: http://cra.org/about/awards/outstanding-undergraduate-researcher-award/#2015

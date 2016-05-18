@@ -39,4 +39,7 @@ title: research
 {% for award in site.data.awards %}
 *  {{ award.type }},
    {% if award.url %} [{{award.year}} {{ award.title }}]({{award.url}}) {% else %} {{award.year}} {{ award.title }} {% endif %}
+   {% for extra in award.extra %}
+     * {{ extra | replace: "BASE", site.baseurl }}
+   {% endfor %}
 {% endfor %}

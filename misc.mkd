@@ -4,8 +4,8 @@ layout: content
 title: misc
 ---
 
-I have a weekly radio show on [WMBR](https://wmbr.org) from 1 to 2am Thursday
-nights (Friday mornings?) called
+I have a weekly radio show on [WMBR](https://wmbr.org) from midnight to 1am
+Thursday nights (Friday mornings?) called
 [Abstractions](http://wmbr.org/www/sched-thu#show4925).
 If you keep a more normal sleep schedule for some reason you can listen to old
 episodes on [the archives](http://wmbr.org/cgi-bin/arch?sort=name).

@@ -2,8 +2,9 @@
   authors: Brett Boston, Adrian Sampson, Dan Grossman, and Luis Ceze
   venue: OOPSLA 2015
   type: conference
-  url: http://adriansampson.net/media/papers/decaf-oopsla2015.pdf
+  url: https://dl.acm.org/authorize?N03900
   extra:
+      - "[Preprint PDF.](http://adriansampson.net/media/papers/decaf-oopsla2015.pdf)"
       - "[Slides.](BASE/media/oopsla15/decaf-oopsla15-slides.pdf)"
       - "[Video.](https://www.youtube.com/watch?v=XKlEu5RTnuI)"
 

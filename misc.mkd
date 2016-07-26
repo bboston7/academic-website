@@ -9,11 +9,13 @@ Thursday nights (Friday mornings?) called
 [Abstractions](http://wmbr.org/www/sched-thu#show4925).
 If you keep a more normal sleep schedule for some reason you can listen to old
 episodes on [the archives](http://wmbr.org/cgi-bin/arch?sort=name).
-Occasionally I'll recommend music on [my
-tumblog](http://funsafemath.tumblr.com).
 
 I made a website that generates poetry in the style of a given poet.
 It's cleverly named [poem-gen](http://poem-gen.brettboston.net).
+If you want to generate poems without anyone knowing (and why _wouldn't_ you?)
+poem-gen is also available as a [hidden
+service](https://www.torproject.org/docs/hidden-services.html.en) at
+[ff44zftawkqoyw7v.onion](http://ff44zftawkqoyw7v.onion/).
 
 [Follow me on Twitter](https://twitter.com/carl_cambridge) if you want way too
 many updates about things that don't matter.

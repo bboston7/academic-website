@@ -1,0 +1,158 @@
+---
+layout: post
+title: GSB Emails Volume 0001
+---
+
+[GSB](https://projects.csail.mit.edu/gsb/) is a social event in CSAIL hosted
+every Friday.
+I am running it this year along with another grad student and one of our
+duties involves sending a humorous email before the event every week.
+I have collected some of my emails from August through October below, enjoy!
+
+## Contributing Back ##
+There's been a lot of talk this week on csail-related about getting
+undergrads to work on more open source projects, but why haven't more
+people been talking about getting the open source projects to contribute
+undergrads back?
+
+The Tor Project could send us three random students so we can
+communicate with each other without anyone knowing who we are talking to
+[1].  Google could send students who look over your shoulder when you're
+reading and try to sell you junk based on what they think you like.
+Haskell would send a student who leaves all of their work to the last
+minute and attempts to finish it right before the deadline [2].  We can
+thank Mozilla for already sending a student to borrow a bunch of white
+board markers and never give them back [3].  Rumor has it they are also
+sending another student to invent a new language for every project they
+work on.  Facebook is sending a student who runs everywhere and knocks
+things over [4].
+
+1. Extra points if the third undergrad is kinda shady and impersonates
+the person you think you're talking to.
+2. Lazy assignment evaluation.
+3. Firefox often "borrows" several gigs of ram on my machine.
+4. "Move fast and break things."
+
+## TV/VCR Repair ##
+As many you probably know, ITT Tech was shut down by the federal
+government this week [1].  But what does the Department of Education
+have to say to people like me?!?  I graduated ITT Tech with a degree in
+TV/VCR Repair and a minor in Laserdisc Studies.  Now I sit here at MIT
+[2] pursuing a PhD in Cassette Tape Hiss Reduction.
+
+I wonder if anyone else will have the experience of climbing to the
+forefront of technology through exploitation by a for-profit university!
+ Who will fill all of those new slots opened up by the new MIT.floppy
+building [3]?  Who will advance the exploding field of vinyl records
+[4]?  Who will invent the next HD DVD?
+
+I don't know what the future holds, but I think things look rather bleak
+for revolutionary technologies like zip drives, minidiscs, CRTs, and wax
+cylinders.
+
+1. [ITT Educational Services, Inc. to Cease Operations at all ITT Technical Institutes Following Federal Actions](http://www.ittesi.com/2016-09-06-ITT-Educational-Services-Inc-to-Cease-Operations-at-all-ITT-Technical-Institutes-Following-Federal-Actions)
+2. MIT shares two letters with ITT.  Coincidence?
+3. Building 5.25.
+4. This one might only be a half joke.
+
+## A Transversal Imaginative Journey across the Realm of Mathematics ##
+Have you ever wondered what a paper written from Atlantis looks like?
+[Wonder no more.](http://www.jyb-logic.org/MANY1)
+
+If you want to go deeper down the rabbit hole, check out the
+[paraconsistency newsletter.](http://www.paraconsistency.org/2016su)
+A word of warning though, it might be the only math newsletter with a
+soundtrack so turn your volume down [1].
+
+1. It's pretty good though so you might want to turn your volume UP
+instead.
+
+## Elevator Coin ##
+Are you tired of waiting for the elevators in the Stata Center?  We've
+all been there, you call the elevator to go to class and by the time it
+arrives you've missed your midterm!  There has been a surprising amount
+of research on elevator scheduling [1] but as far as I can tell no one
+has proposed a purely capitalist solution to elevator scheduling.
+Therefore, we propose Elevator Coin (EVC).
+
+Here's what you can expect from EVC:
+
+1. Elevator reservations.  Know you're leaving the office at 6pm and
+don't want to wait for an elevator?  Schedule an elevator using EVC!
+The elevator can be reserved by whoever is willing to pay the most per
+second to hold an elevator at a certain time.  30 seconds at peak time
+might cost you but you can save money (load balancing!) by scheduling
+your elevator trips at off peak hours.
+
+2. Elevator preempting.  Have to be somewhere right now and don't want
+to wait?  You can preempt an elevator in transit by paying more than the
+sum of the people in the elevator.  The elevator will instantly change
+direction to serve the highest bidder.
+
+3. Anonymity. EVC uses zero knowledge  proofs to facilitate transactions
+keeping your destinations and bids private.  This also makes EVC
+perfectly fungible as elevator miners won't be able to reject your
+transactions based on previous trips to shady destinations [2].
+
+4. Elevator safety feature abuse prevention.  EVC takes the abuse of
+elevator safety features to subvert the payment system very seriously.
+Holding the elevator door with your arm to allow a freeloader in will
+result in instant fines based on current elevator bid amounts.
+
+5. EVC derivatives.  Since we expect EVC to really take off we'll be
+selling derivatives on the performance of EVC.  Want EVC at today's
+price a month from now?  Buy EVC futures!  Convinced that some elevator
+abusers wont pay their fines?  Buy EVC credit default swaps!
+
+
+But don't just take our word about it, here's what free market proponent
+Gary Johnson had to say about our revolutionary idea:
+
+"What's Elevator Coin?" --Gary Johnson.
+
+1. "Elevator traffic handbook : theory and practice" by Gina Barney is
+a 400+ page book on elevator scheduling!  It's also available at the MIT
+library.
+2. Like the G9 lounge at 5:30pm on a Friday.
+
+## Passwords ##
+Remember when passwords were easy?  You always knew your password was
+just "password" or your username.  But now with all the increasingly
+complex requirements your passwords are quickly becoming too
+hard for everyone to know!  While some might argue this has some
+benefits [1], it also makes your life harder.  A new study showed that
+the average American wastes 5 years of their life filling out password
+reset forms and that number is only going up.  Our presidential
+candidates are all unacceptably silent on this issue.
+
+But fear not!  We at GSB have found the solution.  Everyone in the world
+should just use the same password.  After much deliberation [2] we came
+up with the perfect canonical password to satisfy even the most
+obnoxious minimum password requirements.  Here it is:
+
+P@55w0Rd
+
+The best part is, if everyone uses it you don't even have to remember
+it.  Forgot which parts are capitalized and which parts are numbers?
+Just Google, "what's my password?" and you'll get the answer in seconds.
+
+If your favorite website [3] requires passwords longer than 8
+characters, simply pad the end of the password with 1s to reach the
+minimum (but do not go over the minimum).  So, a 12 character minimum
+password would be "P@55w0Rd1111".
+
+Finally, this change makes life easier for programmers.  No longer do
+you have to worry about salting and hashing passwords to store in some
+big database.  In fact, you don't need to worry about passwords at all!
+Just hard code "P@55w0Rd" in your application as the only acceptable
+password.
+
+1. Like keeping unauthorized users out
+2. Roughly 5 minutes.
+3. neopets.com
+
+## RIP Vine ##
+As some of you may know, Vine is being discontinued.  I must admit
+though, I never mastered the art of boiling something down to six se [1]
+
+1. Insert endless loop here.

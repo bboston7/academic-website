@@ -1,0 +1,475 @@
+---
+layout: post
+title: GSB Emails Volume 0002
+---
+
+More silly emails from November through April.
+Check out [volume 0001]({{ site.baseurl }}/2016/10/31/gsb-emails-0001.html) for more.
+
+## Three Course Lunch ##
+My fellow GSB Czar Thomas brought it to my attention this week that in
+France school children are given a 3 course lunch to eat over the period
+of 2 hours.  Having gone to public school in the US with short lunch
+periods [1], this blew my mind.  Of course, not only is their lunch
+period almost 4 times longer, the food is supposedly pretty good and
+relatively healthy.  I tried to extrapolate my 35 minute lunch
+experience growing up to fill 2 hours and 3 courses.
+
+
+1st course:  Probably required to be some fruit or vegetable.  Congress
+says pizza can count as a vegetable for the purpose of school lunch so
+it's likely a gross pizza square.
+
+2nd course:  Mystery protein.  Likely some meat that couldn't be sold to
+anyone but a public school district.  Large glass of soda [2].
+
+In between 2nd and 3rd course:  Picked on by slightly more popular kids
+for half an hour [3].
+
+3rd course:  One of those frosted brownies I've never seen outside of
+school lunch.  These were actually pretty good though.
+
+
+1. My high school lunch break was only 35 minutes!
+2. My high school also had some exclusive deal with coca-cola.  I've
+heard foreigners are often surprised to learn that we have soda vending
+machines in school cafeterias here.
+3. On second thought maybe limiting lunch to 35 minutes was a good thing.
+
+## Return ##
+After three long weeks without GSB we are finally returning!
+I know what you're thinking, "but Brett, since you guys have
+carelessly canceled GSB three weeks in a row I haven't spoken to
+_anyone_!  How can I be sure that I can still speak at all?"
+
+Fear not mute CSAILor!  As Thomas and I have both seen the new
+documentary "Arrival," we posses the necessary skills to teach you to
+speak from scratch [1].
+
+After we've retaught you how to speak in thirty minutes you can follow
+us down to the mixer with BCS on the 4th floor at 6pm confident in your
+ability to converse again.
+
+1. So long as you're OK learning a language of circles with little
+fringes on the edges.  Cool ink jets in your hand not included.
+
+## DRM Enabled ##
+
+With the [W3C considering the addition of DRM to open web
+standards](https://www.eff.org/deeplinks/2016/11/world-wide-web-consortium-crossroads-arms-dealers-or-standards-setters)
+GSB is considering adding it's own DRM to the GSB experience.  Here's
+what you can expect from DRM enabled GSB:
+
+Memory management:  Memories are a serious copyright violation and
+people who can remember coming to GSB might not want to come back!
+Therefore, we will be employing memory wiping technology after each meeting.
+
+Exclusion:  When a non-GSB participant glances in our direction they are
+stealing our intellectual property.  Therefore, GSB will now take place
+behind a large curtain with directional speakers blasting white noise in
+every other direction so non-participants cant steal our proprietary
+conversations.
+
+Access Revocation:  Just because you got into GSB doesn't mean that you
+can stay.  At any point we can revoke your access at which point the
+floor will open up and you'll be ejected to the 8th floor.
+
+We welcome all EME supporting W3C members to join us and have their
+dreams realized.
+
+## Shift/Reduce Conflict on "it" ##
+Yesterday marijuana became officially legal for recreational use in
+Massachusetts. While at least one CSAILor was very happy about this,
+there is an unforeseen consequence that has gotten very little
+attention: the phrase "legalize it" is now ambiguous.
+
+No longer can a band shout out "legalize it" at a concert and get
+instant cheers from the crowd.  Now, they'll be met nothing but
+confusion.  Our kids will grow up hearing mediocre music about the
+legalization effort [1] and have no idea what hell "it" is.  Therefore,
+I propose that we find a new "it" to push for next.  I hereby cast my
+vote for the next "it" to be [Kinder Surprise
+Eggs](https://en.wikipedia.org/wiki/Kinder_Surprise).  I believe that
+if we follow the path of marijuana legalization effort we will, in a few
+decades, be able to enjoy chocolate eggs with little toys in them.
+
+What we learned from the marijuana legalization effort is this: we must
+first legalize kinder eggs for medical use.  Then, after public hysteria
+dies down we shoot for recreational kinder eggs.  The medical benefits
+are clear, depression can be temporarily alleviated because:
+
+1. Chocolate tastes good.
+2. Toys are fun.
+
+Moreover, although alcohol and tobacco kill millions of Americans,
+chocolate eggs with toys in them kill approximately zero Americans over
+the age of 21 [2].
+
+Since the legalization effort will take a while, we'll get a few more
+decades out of the phrase "legalize it" and our kids will still be able
+to relate to songs about marijuana prohibition.
+
+Help us create NORCEL [3] at this week's GSB.
+
+1. It took us too long to take advantage of Peter Tosh's promise to
+advertise marijuana for free.
+2. Sorry kiddos, these things are gonna have to be adult only initially.
+3. National Organization for the Reform of Chocolate Egg Laws
+
+## The Great Bitcoin Conspiracy ##
+Anyone who has learned a bit about Bitcoin knows that the cryptocurrency
+was created under the pseudonym Satoshi Nakamoto and the real identity
+of the developer(s) is unknown.  However, I claim that the answer to
+this longstanding mystery is hidden in plain sight.  Often, author's
+names are written in \<last name\>, \<first name\> format.  What happens
+when you arrange Satoshi Nakamoto this way?  You get:
+
+Nakamoto, SAtoshi.
+
+That's right, NSA [1].  Why would the NSA invent Bitcoin?  [Thanks to one
+redditor we know the
+answer](https://www.reddit.com/r/Bitcoin/comments/40cn2u/bitcoin_nsa_conspiracy_theory/
+).  The NSA created Bitcoin to indirectly
+fund the development of ASICs specially designed to crack SHA256.  Right
+now they're mining bitcoins, but in the future they'll be using these
+machines to reverse your password hashes!
+
+1. Side note: the government loves these little tricks.  Take Neil A for
+example, the first man to walk on the moon.  If you reverse his name you
+get "Alien."  Undeniable proof that the moon landing was staged by
+aliens in Arizona.
+
+## Ham Radio ##
+I bought a new shortwave radio this week and I discovered something
+while listening to the HF ham radio bands: ham radio operators only talk
+about radios.  Ham radio is sold as something that can be used to talk
+to anyone around the world about anything but in practice these people
+don't seem to have any shared experiences other than the fact that they
+like radios leading to conversations exclusively about power levels and
+new transmitters.
+
+Can you imagine if other communication worked this way?  Individuals
+talking on phones only have conversations about phones.  People emailing
+each other only talk about email communications [1].  TV shows are
+exclusively about how televisions work [2].
+
+1. I just got a new email client this week and my email has never been
+faster.
+2. Jerry Seinfeld famously said, "have you ever noticed how a cathode
+ray paints the screen of a CRT monitor in successive passes?"
+
+## Laundry Tokens ##
+One of the major downsides of paying with cash for something is that
+you'll often get these metal disks back if what you're buying doesn't
+cost a whole dollar amount.  While these disks technically have value,
+they're effectively worthless.  There's no good way to carry them around
+and they're a pain to count out and use.  There is one exception
+however: quarters.
+
+Quarters are still useless to most people, but for those of us who use
+coin-op laundry machines they feel like they're worth more than 25 cents
+because they save you a trip to the bank.  Therefore, I've started
+calling quarters "laundry tokens" to capture the rift in quarter value
+between those who use coin-op laundry machines and those who don't [1].
+If Coin Star can convert your change to cash for a fee [2], can I buy
+quarters for less than face value from those with laundry machines?
+After all, quarters are a burden to them and I would be doing them a
+favor by exchanging the quarters for money you can actually spend.
+
+Sell me your quarters for 20 cents each at this week's GSB.
+
+1.  The last time I moved to a place with free laundry I had a roll of
+quarters that went unused for 2 years!  Where could I spend $10 in
+quarters without feeling like a jerk?
+2.  The existence of a business that just takes your money and gives you
+less money back and nothing else proves that coins should be abolished.
+
+## Email Tips for Busy People ##
+Do you feel like emails are consuming your life?  We at GSB have a few
+email tips to help you cut down on the time you spend staring at your inbox.
+
+1.  Don't read them.  You're a grad student.  You don't *get* important
+emails.
+
+2.  Give all of your contacts a time range within which to send you
+emails.  For example, 1015-1045.  Delete any emails that arrive outside
+of that range; they probably came from a stranger and mom said not to
+talk to strangers [1].
+
+3.  Completely drop out of society.  If you never interact with other
+people or services you'll never get any email.  Using tip 2 will put you
+well on your way achieving this tip.
+
+4.  Require proof of work on all emails.  Everyone who write you an
+email should attach [2] a proof of work demonstrating that they spent a
+few seconds cracking some hashes.  This will virtually eliminate spam!
+Unfortunately, making this change will take a bit of work (heh).
+First, you'll need to add a proof of work field to the email standard.
+Then, you need to convince everyone to use your new standard.
+While completing these steps will take a significant amount of time and
+effort you will likely spend less time on this than a lifetime of
+reading emails.
+
+5.  Use the NSA.  It's time we got something in return for all that bulk
+data collection.  If the NSA is already reading our emails, would it
+hurt them to delete some spam?  Or maybe draft responses for us?  Write
+a bill requiring the NSA to take email out of our hands completely.
+
+---
+
+1. Or even worse, it could have come from someone who doesn't respect
+your arbitrary rules!  Cut them out of your life.
+2. My email client is freaking out that I used the 'a' word here and
+didn't attach anything.
+
+## Late Policy ##
+As professors employ more complex late policies of dubious usefulness
+[1] we here at GSB have invented a late policy that maximizes
+entertainment at the expense of usefulness.
+
+We propose a lookup table based late policy where the table is not known
+at the start of the semester.  The table should be at a minute
+granularity and the penalty need not be monotonically increasing.  For
+example, an assignment turned in 3600 minutes late may result in a 10
+point penalty while the same assignment turned in 3601 minutes late may
+result in a 2 point penalty.
+
+A professor implementing this strategy should also make a forum
+available for penalty discussion.  Students can slowly figure out the
+elements in the table using this forum.  This gives students two choices
+whenever they turn in a late assignment:
+
+1. Turn it in at a time with the lowest known penalty
+2. Take a risk and turn it in at a time with an unknown penalty, which
+could be lower than any seen so far!
+
+Add an entry with a negative penalty to incentivize students to fill out
+the lookup table!  Let the students know this entry exists and watch
+them compete to find the extra credit.  If a student finds it, lie that
+there is another entry that nets even more bonus points.
+
+1.  I'm looking at anyone who makes me evaluate a function [2] to
+determine how many points I'll lose.
+2.  Preemptive note for the pedant who will respond to this email to
+tell me that many late policies are functions even if they aren't
+formalized:  You *know* what I mean here.
+
+## Proof of Engagement ##
+With Bitcoin hitting all time highs and continuing to grow, many people
+are wondering: is this really a good use of energy?  While there have
+been quite a few proposals to move to non proof of work systems to
+reduce energy usage, we here at GSB have solved the problem with our
+Proof of Engagement (PoE) system.  This system is revolutionary because
+it is technically a proof of work system where a human being does the
+work manually.  Here's how it works:
+
+1.  You sit at your computer and start the mining program
+2.  The program shows you an advertisement.  This could be a video,
+image, or even just text.
+3.  After you've seen the ad, the mining program quizzes you about the
+content of the ad.
+4.  If you answer all of the questions correctly you are given the right
+to publish the next block with probability p where p is set to achieve
+an average block time of 10 minutes.
+5.  The published block is sponsored by the company that created the ad
+from which the block was mined [1].
+
+This process can be repeated as many times as the user likes!  Although
+it may take months or even years to find a block, users will become very
+knowledgeable about the brands surrounding them every day.
+
+If you're [noided](https://www.youtube.com/watch?v=3_V_2BFWahc)
+that advertisers will somehow take advantage of our
+brilliant plan, consider this: abusing the PoE mechanism will cause the
+underlying currency to crash. This will reduce the consumer's spending power
+and hamper their ability to purchase products.
+
+1. Sprite presents: The genesis block.
+
+## Abstract Expressionism ##
+Recently I had a conversation with a fellow grad student about how
+[Vaporwave](https://en.wikipedia.org/wiki/Vaporwave) will be taught about in music history classes in a few
+decades.  I likened it to abstract expressionism or avante-garde poetry
+and she rolled her eyes so hard that if she rolled them any harder they
+would have fallen out of her head.  Although we disagreed, this
+conversation got me thinking back to the art history classes I took in
+undergrad.
+
+As background for the rest of this email, here's a quick and
+overly-simplified art history lesson:
+
+1.  People painted realistic paintings.  They were painting objects or
+scenes and the fact that these were paintings was secondary to the
+content of the painting itself.
+2.  Cameras came out (and a bunch of other stuff happened too) and
+painting had a bit of an existential crisis.  Why paint when you can
+take a picture?  Artists started to think more about the medium they
+painted in (2 dimensional canvas) and their tools (paint) and began
+focusing more on the features of painting that are unique to painting
+than the actual subjects of their paintings.
+3.  This thinking continued and compounded for a few decades until we
+got abstract expressionism (Jackson Pollock,  Mark Rothko, etc).
+Clement Greenberg (a controversial art critic) loved this stuff.  He saw
+it as art without meaning [1].  It required the viewer to question what
+they were seeing and really think.
+4.  Some people continued painting realistic paintings.  Greenberg
+called this "kitsch" and claimed it was for the uncultured masses as it
+required no thought to understand [2].
+
+Right now I think email is in stage 1 in the art history time line.
+I've yet to see an email that embraces the form of the email medium over
+the content of the message itself.  I don't even know what this email
+would look like, but I plan to think about this for a week and send what
+I come up as a GSB email [3]. Here are some starting points:
+
+1.  I will be working in plain text email.  HTML email feels like a
+different medium to me, more like a website.
+2.  csail-related sticks a footer at the bottom of every email.  This is
+an unfortunate restriction on my artistic freedom and will have to be
+incorporated in some way.
+3.  Email is 2-dimesional, but the monitor it's displayed on affects the
+dimensions.  This can be somewhat remedied by using a narrow column
+width and ensuring the email isn't too long.  Or maybe scrolling IS an
+email specific feature to be highlighted.
+4.  It's hard to find features that are email specific and not
+available to other text based computer mediums.
+5.  I encourage responses to this upcoming abstract email to be
+similarly abstract
+
+After this email is sent all further email with clear meaning on
+csail-related will be kitsch, emails for the unenlightened masses.
+Meanwhile, I'll be up in my ivory tower sending abstract emails to myself.
+
+
+1. The abstract expressionists themselves often ascribed meaning to their work.
+2. [Clement Greenberg, "Avant-Garde and Kitsch"](http://www.sharecom.ca/greenberg/kitsch.html)
+3. You'll know it when you see it.
+
+## FWD: FWD: FWD: RE: GSB Tonight: \#\#\#\#\#\#\#\#\#\#\# ##
+{% raw %}
+    [[[ @# $@! $## #@*( *#(@*#($@#*($&(#*@$$: #@#$@) ^&*(@#$|  ]]]
+    [[[ $#$%#) ---------------+++++++++++++++++==\\\\`~~~~~~   ]]]
+    [[[ ,,,,,,,,,,,,,,,,,,,,,,,,,,,<<<<<<<<<<<<<<<<<<<<<<<<<<  ]]]
+
+
+    >>>> %%%%$$$(()))))){{]]]]]]]]??
+    >>> !!!!!!!!!!!
+    >> $$$$$???$$$?[}}}}{[{{{]]]]!!!\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\?
+    > !@#$%^&*&^%$#@!@#$%^&*()(*&^%$#@!@#$%^&*!!
+
+    !!!!!!!!!!???////////////.,.,./,./,./,./,/.----------------
+
+    ------------------[#].<<<<<<<///,<?<?<?<?<,,,,><><?@$@#$@$@$@#$@~
+    .................................................................................
+    ...............
+    .
+    .....................................
+    ........................................................! [$]
+
+
+    1. )))))((((((($#*%&(#$)!(*&#)!?????
+    2. *****************************!!!!!!!!!!!!!!!!!!!
+    3. !!!!$)@)#)(((((((((@#&$*$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@><
+
+
+
+
+    {}}}}}}}}}}}}}}{[[[[[[[[[[[[[[[[[[[[[[[{{{{{{{{{{{{{{{{{{{{[[[[[[[]\
+    <><><><><><><><><>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<><><><><><><>><><><>[^]
+
+    *# $ @ $    ) ( { } [    \ | < ? < @ &*
+    *#:)(* #! -- #@-&^ )({}]['s
+
+    *! 2 # $    % ^ & & *    ( ) + { } - |*
+    *%:#) !@ -- @#-$@ )(*&^$
+
+    (@((@#(*$&@(#&$*#@&$(@@((@(@(@(]
+    http://)@))#($*@((@(*******************
+    (#*$@&*(@#*$(&@*#($&#@(]@((
+    ((((((((((((*********************
+    http://@(**************#@@@@@@@@
+
+    @(#*$(@&$*(@&$(*@($#&*#@( (@#$) @#(*$@#(&$(@#&$*(#@]
+    (@#*$(@\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+    [[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[
+    @)#)($  @#)$)#@$( -- ((@$**(@00000000000
+
+
+    [#]: (@*$**(*@((*? !!!!!
+    [$]:                                                            +
+    [^]: ____________________________________________________________
+
+
+    View in HTML in your browser | Unsubscribe
+{% endraw %}
+
+## Sweep the Heap! ##
+I was looking at the [proposed changes for
+C++17](https://isocpp.org/files/papers/p0636r0.html) and was *shocked* to see
+that the C++ standards organization is
+[removing trigraphs](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2014/n4086.html)
+from the language specification.
+
+This removal shows how out of touch bureaucrats at the ISO are with us
+everyday programmers.  Who are they to limit our artistic expression??!
+Now my exciting program that prints the executable's name
+
+    int main(int argc, const char* argv??(??)) ??<
+      printf("%s??/n", argv??(0??));
+
+      int* a = nullptr;
+      // What's this?  A null pointer dereference????????/
+      printf("%d??/n", *a);
+      // nah
+
+      return 0;
+    ??>
+
+has to be changed to this boring piece of junk
+
+    // Ugh, braces and brackets are so boring
+    int main(int argc, const char* argv[]) {
+      // Who still uses the backslash character in 2017????
+      printf("%s\n", argv[0]);
+
+      int* a = nullptr;
+      // What's this?  A null pointer dereference \
+      printf("%d\n", *a);
+      // nah, but you already knew that because getting rid of trigraphs
+      // made this trick obvious
+
+      return 0;
+    }
+
+Join me and the powerful obfuscated C++ lobby to sweep the heap and put
+new leadership in the C++ standards organization.  Together we can make
+C++17 great again.
+
+## Related Queries ##
+Sometimes you come across a popular website feature that was ported to an
+unexpected place.  For example, this week I discovered that [Wolfram
+Alpha](https://www.wolframalpha.com) sometimes gives you queries they think are
+related to what you searched for.  I can't think of many cases where this would
+actually be useful, but it gives some insight into what other people use the
+service for.  For example:
+
+> millionth digit of sqrt(0)
+
+I often forget the millionth digit of 0 so it's nice to be able to look
+that up when I need it.  It's too embarrassing to admit this though, so
+I look up up the millionth digit of sqrt(0) instead.
+
+> Am i too drunk to calculate?
+
+If you have to ask, the answer is yes.  Also, the user who asked this
+query didn't specify *what* they were calculating.  Could you measure
+drunkenness by ability to calculate?  For example, I could be sober
+enough to do basic arithmetic but not sober enough to take an integral [1].
+
+> analyze Captain Marvel-like curve image
+
+I have no idea what this user was going for.
+
+1. Though it's been 6 years since I took integral calculus so I'm not
+sure I could do this sober most of the time either.
+

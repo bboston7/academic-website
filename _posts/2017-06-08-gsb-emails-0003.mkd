@@ -1,0 +1,156 @@
+---
+layout: post
+title: GSB Emails Volume 0003
+---
+
+My sister told my mom about these emails and she wants to read them now so I'm
+posting the emails from the end of April through May.
+Check out [volume 0001]({{ site.baseurl }}/2016/10/31/gsb-emails-0001.html) and
+[volume 0002]({{ site.baseurl }}/2017/04/20/gsb-emails-0002.html) for more.
+
+## Use of GSB logo / name while marching? ##
+It appears that the csail-related gods have blessed us with another
+drama filled email thread!  Whether or not this thread will grow to 50+
+messages is yet to be seen but we at GSB would like to offer our input:
+
+Not only are you free to make a fool of yourself, but you  may attempt
+to make or imply that the rest of us at GSB are fools by identifying
+yourself with the organization.
+
+That is, you may feel free to use the GSB logo [1] or name at tomorrow's
+march [2].
+
+---
+
+1.  I think there's an old logo floating around somewhere.
+2.  Though I'm not sure it'll add any weight to your statements
+
+## How to Program Like Brett ##
+This week I found a great [video
+series](https://www.youtube.com/playlist?list=PLfYVzk0sNiGEZXlIltPP7Yy_s5gTM7hf8)
+by the Museum of Modern Art
+(MoMA) describing (among other things) how to paint in the style of
+various abstract expressionists.  Although I don't paint, I began
+wondering what an episode would look like for me.  Specifically, if
+there were a Museum of Modern Programs, what would they say about
+programming like me?  Here are some probable excerpts from my future
+episode:
+
+1. Brett allocated large swaths of memory haphazardly and almost never
+freed them.  He justified this by saying, "no one will ever run this but
+me and I haven't run out of memory yet, so why bother?"
+
+2. Infrared analysis shows that Brett almost never planned his
+implementations ahead of time and definitely never wrote any sort of
+specification.  This often led to large, unmaintainable blobs of code
+that he ultimately abandoned due to the significant challenge in
+implementing new features.
+
+3. Brett often began his programs by using smart pointers but always
+switched to using raw pointers after getting tired of writing
+`std::unique_ptr<T>` everywhere.  Similarly, Brett often found himself
+removing `const` across his entire code-base.
+
+4. Brett never fully leveraged move semantics, often returning pointers
+to objects unnecessarily.  It's unclear whether he did this out of
+disagreement with the confusing semantics around when things are copied
+versus moved, or if he simply didn't understand it himself.
+
+
+## MAJOR CHANGES ##
+Friendos [1],
+
+It is with a heavy heart that I announce that our good friend and GSB
+regular Envelopy the envelope has passed away.  He died doing what he
+loved most, spilling his contents all over the floor and generally being
+frustrating.  Unlike his previous spills, he couldn't be stuffed again
+as he was no longer in one piece.
+
+R I P  
+Envelopy  
+???? - 2017
+
+I have replaced Envelopy with a new envelope that I like to call
+Envelopero.  Envelopero has some incredible features that I think you'll
+learn to love:
+
+1.  Security lines so you can't see through him
+2.  No-lick strip
+3.  Generally intact
+
+I know this is a big change that will take some getting used to, but
+we'll get over it together.
+
+---
+
+1.  I need a gender-neutral version of "guys" that doesn't sound too
+formal (everyone/everybody/friends) or southern (yall).  Until someone
+has a better suggestion I'm going with friendos.
+
+## Boosting Toots ##
+As some of you may have seen, MIT now has a [Mastodon
+instance](https://mastodon.mit.edu).  What is Mastodon?  It's basically just
+Twitter with the following changes:
+
+1. Tweeting is called "tooting."  Is this a  fart joke?  Perhaps it's a
+comment on the quality of most tweets?  I'm still not sure, but I'm just
+going to assume the creators aren't familiar with the American English
+definition of the word "toot."
+
+2. It's federated, which is fancy computer science speak for "it doesn't
+always work."
+
+3. It's free software, which means that someone will respond to this
+email telling me that I should fix problem two myself instead of just
+complaining about it.
+
+4. Retweeting is called boosting, probably because retooting sounds
+really strange.
+
+Right now our local mastodon time line is full of undergrads
+complaining, but grad students love complaining too so what are you
+waiting for!
+
+## De-stress Test ##
+Congratulations to all the students who finished courses this week!  As
+you take a breath and relax, think about your computer who worked so
+hard along side you.  Here are some tips to help you de-stress your
+computer and best friend:
+
+1. Underclock the CPU.  Give your computer a break by making it do a few
+billion fewer cycles per second.
+
+2. Mineral oil bath.  [Apparently it's safe to submerge computers in mineral
+   oil](https://www.pugetsystems.com/submerged.php).  I imagine it's pretty
+gross to use your laptop afterward though.
+
+3. Staycation.  You don't have time to take your computer on a vacation,
+so give it a staycation by setting your wallpaper to something relaxing.
+ Keep in mind that images that are relaxing to a human aren't
+necessarily relaxing to a computer.  A simple, repeating pattern will do!
+
+## Make Our Planet Uninhabitable Again!!!! ##
+As [the president has affirmed his commitment to destroying our planet](
+https://www.nytimes.com/2017/06/01/climate/trump-paris-climate-agreement.html),
+we here at GSB will be enacting new policies to help America keep
+its place among the top CO2 emitters per capita:
+
+1.  Since the Stata Center air conditioning is so intense, we will begin
+burning coal at GSB for warmth.
+
+2.  Carbon sinks are banned.  Don't even **think** about bringing a plant
+to GSB.  The federal government is firm in its beliefs that carbon needs
+to be liberated from its earthly prison.  Carbon should be free to roam
+our atmosphere and warm the planet and stuff.
+
+3.  Join us on our annual trip to the arctic where we will be melting as
+much ice as we can with butane torches.
+
+4.  We encourage as much mindless consumption as possible.  Never think
+about the consequences of your purchases.  If you ever start wondering
+why all that plastic junk you buy is so cheap, try not to think about
+the externalities that weren't factored into the price, of which
+pollution is a major component.  Just buy more fidget spinners and
+consume beyond your means like a good American.
+
+Help us accelerate the end of the human experiment at this week's GSB!

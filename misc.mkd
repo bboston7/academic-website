@@ -11,7 +11,7 @@ If you keep a more normal sleep schedule for some reason you can listen to old
 episodes on [the archives](http://wmbr.org/cgi-bin/arch?sort=name).
 
 I made a website that generates poetry in the style of a given poet.
-It's cleverly named [poem-gen](http://poem-gen.brettboston.net).
+It's cleverly named [poem-gen](http://poem-gen.untitled.earth).
 If you want to generate poems without anyone knowing (and why _wouldn't_ you?)
 poem-gen is also available as a [hidden
 service](https://www.torproject.org/docs/hidden-services.html.en) at

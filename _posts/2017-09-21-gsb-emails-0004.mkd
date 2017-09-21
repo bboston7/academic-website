@@ -1,0 +1,410 @@
+---
+layout: post
+title: GSB Emails Volume 0004
+---
+
+More GSB emails from May to September!
+See the older ones here:
+
+* [Volume 0001]({{ site.baseurl }}/2016/10/31/gsb-emails-0001.html)
+* [Volume 0002]({{ site.baseurl }}/2017/04/20/gsb-emails-0002.html)
+* [Volume 0003]({{ site.baseurl }}/2017/06/08/gsb-emails-0003.html)
+
+## Laptop Ban ##
+[The Department of Homeland Security is thinking about banning laptops on
+international
+flights](https://www.theverge.com/2017/5/29/15708506/us-laptop-ban-expansion-international-flights), so we at GSB have come up with a few ways to
+stay entertained and productive on your next flight, other than reading
+a book.
+
+1.  Renting movies on airplanes is expensive and the inflight wifi often
+wont let you stream video, so try the following next time you fly:
+    1. Buy your favorite movie on a film reel
+    2. Attach a weight to the start of the film
+    3. When no one is looking, cut a small hole into the side of your
+window and feed the weighted end through it.
+    4. Your movie will begin to spool out from the side of the plane and
+you can look through the film by holding it up to the light! This
+technique works best with silent films.
+
+2.  Print your emails out ahead of time and go through them on the
+plane.  If you need to respond to one, handwrite your response on the
+back of the email.  When you land, mail the responses to your email
+administrator with directions to type up the email and send it to the
+appropriate recipient.  Slip in a crisp $20 bill for faster processing!
+
+3.  Preempt the garbage collecting flight attendants by asking your
+fellow passengers for their empty pretzel or peanut bags.  At the bottom
+of these bags you'll find food dust.  Collect enough bags to fill a
+small cup with this fine powder, then ask the flight attendant for some
+water.  Mix the water with the dust to create a mailable paste.  Now you
+can build a sculpture on your tray table!  After you're done, hold the
+sculpture up to the reading light to heat it and make it it harden.
+Give your sculpture to the pilot at the end of the flight as a token of
+gratitude.
+
+## All Natural AWS ##
+It was announced earlier today that [Amazon is buying Whole Foods for
+$13.7
+billion](https://www.bloomberg.com/news/articles/2017-06-16/amazon-to-acquire-whole-foods-in-13-7-billion-bet-on-groceries).  We reached out to Amazon for comments and they
+shared the following changes to AWS with us.
+
+Artisanal S3:  Amazon S3 allows users to store large amounts of data in
+the cloud. Unfortunately, spinning disks aren't very natural, which has
+been a point of contention among naturopathic computer scientists for
+years.  Therefore, we're introducing Artisanal S3, in which a hip
+employee types your data up on an old typewriter at a third wave coffee
+shop.  Coffee stains can be added to your Artisinal S3 records for an
+extra fee.
+
+Organic EC2:  EC2 allows users to spin up on-demand compute instances at
+an hourly rate, but these instances may contain locked down silicon and
+non-free security patches.  While these patches may reduce bugs, they
+also reduce your freedom!  For an added fee you can get EC2 instances
+that surpass the criteria for FSF organic systems, including RISC-V
+processors and entirely free software stacks.
+
+But it's not just Whole Foods concepts flowing into AWS, Amazon will be
+making some changes to Whole Foods based on the success they've seen
+with AWS.
+
+Spot Pricing:  [Spot pricing](https://aws.amazon.com/ec2/spot/) on AWS lets you
+pay well below on-demand rates for an S3 instance, with the stipulation that if
+the market rate rises above the maximum you're willing to pay your instance is
+terminated.  At Whole Foods you will be able to take any product that we have a
+surplus of and propose a price to the cashier.  If the spot market price of the
+item later rises above the price you quoted, a Whole Foods Product Reclamation
+agent will be dispatched to your house to reclaim what remains uneaten of the
+product you purchased.
+
+## GSB ICO [1] ##
+[Initial Coin Offerings
+(ICOs)](http://fortune.com/2017/03/31/initial-coin-offering/) are the hot new way to get rich with
+very little effort.  To do an ICO all you need is an idea that runs on
+Ethereum.  Then, you sell shares of your "company" in tokens to raise
+capital, similar to an IPO.  From this you can compute the market
+valuation of your company.  These valuations are absolutely insane given
+that most of these ICOs haven't actually implemented or planned
+anything.  In one case, [an ICO led to a valuation of $300
+million](http://www.coindesk.com/ethereum-ico-irrationality-300-million-gnosis-valuation-sparks-market-concerns/).
+
+Given all that, we here at GSB are doing an ICO by following the
+conventional steps:
+
+1.  Come up with an idea.  Deep learning is hot now, so maybe a
+distributed deep learning thing?  Throw in some internet of things for
+good luck [2].
+
+2.  Pitch the idea.  I've put the important bits between in italics:
+
+    "GSB is a *distributed deep learning framework* built on top of the
+Ethereum network.  The *internet of things* can leverage our GSB layer
+to access the *global supercomputer*, enabling never before seen levels
+of *interoperability*.  I'm an *MIT student* doing an ICO of *5%* of GSB
+with a target valuation of $200 million so I can work full time on GSB.
+
+    Note that I'm only offering 5% of GSB.  This is important because it
+means that your investors have essentially no say in how the thing runs.
+ No one will notice this.
+
+3.  (Optional) Write a white paper with some technical details of how
+you'll accomplish your goal.  This used to be necessary but now a flashy
+website with no technical details will do just fine.
+
+4.  Pick a date for your ICO and hype it like crazy on Reddit.  Retail
+investors with no understanding of computer science or Ethereum will buy
+your coins like crazy.
+
+5.  After you sell out of tokens, cash out everything.  ICOs often
+perform worse than ether.  Whether you can actually flood the market
+with your 95% share is yet to be seen, so you should probably do it slowly.
+
+6.  Don't build anything.  You already have the money.  Kick back and relax!
+
+7.  Fight off the paranoia.  This isn't illegal, right?  I mean, sure
+the SEC will probably make an example of a few people and send them to
+federal prison for securities fraud for a very long time, but come on,
+that won't be YOU, right?  Move to a country that doesn't extradite to
+the US to be safe.
+
+---
+
+1.  I really wanted to call this email, "How I Made $200 Million From
+Home," but last week's email (All Natural AWS) got caught in a lot of
+spam filters and this definitely would too.
+
+2. I overheard some people in Kendall square the other day talking
+about how they wanted to do an ICO but they didn't have any ideas.
+Their first mistake was thinking that they *need* an idea.
+
+## Depopulating GSB ##
+We have reviewed Friday night grad student performance and found a
+shocking correlation between work output and GSB attendance!  Work
+output on Fridays for the average grad student looks something like this:
+
+
+    |
+    | _____________
+    |              \
+    |               \
+    |                \
+    |                 \_____
+    |
+    -------------------------
+    ^           time->
+    |
+    work
+
+But for GSB attendees, the data looks more like this:
+
+
+    |
+    | _____________
+    |              |
+    |              |
+    |              |
+    |              |
+    |              |__________
+    -------------------------
+    ^           time->
+    |
+    work
+
+We are puzzled by this sudden drop off, so we will be using the same
+[techniques the administration used with Senior
+House](https://thetech.com/2017/06/18/senior-house-depopulation).  That is, we
+will be depopulating GSB.
+
+What does this mean for you?  GSB will still go on but no two
+participants can be in the same room at the same time.  Instead, we will
+have satellite GSBs around campus.  You will be assigned a room to sit
+in alone with a single beverage of your choice, preferably with the
+lights off.  We have booked the following exciting venues for reflection
+on why you aren't being productive:
+
+1.  9th floor bathroom:  This windowless cell will surely inspire
+dysphoric thoughts about your recent dissertation progress.
+
+2.  Dreyfus tower:  This tower is very close to being like our home in
+the Gates tower but everything is subtly off.  You'll slowly go crazy
+trying to navigate it like normal!  Depending on the floor you're
+assigned you may even have to come to terms with the fact that hardware
+is physical stuff with real limitations and not just a magic box.
+
+3.  Atlas support center:  This room initially looks very nice, but
+you'll quickly discover that the waiting room couches have no backs!
+The sterile hospital smell will invoke images of disease as you try to
+fend off thoughts about your own health.
+
+
+After extreme vetting some (but not all) grad students will be allowed
+to return to the normal GSB venue.  We will be picking these students
+based on personality incompatibilities so that fun is limited and
+students will decide to just work instead.
+
+## Military Terms ##
+In undergrad I lived with a few ROTC students, and when they were
+talking to each other they might as well have been speaking a different
+language.  As far as I can tell, everything in the military has a unique
+term not used in civilian life, even though the same concepts also exist
+here.  Adopting these terms to academia can make day-to-day life seem
+more interesting, so here's the mapping I've come up with after thinking
+about this for way too long over the last couple years:
+
+* Desk -> Bunk
+* Stata Center -> Barracks
+* Doing a postdoc -> Re-enlisting
+* Advisor -> Commanding officer (CO)
+* Stata Cafe -> Mess hall
+* Going to a conference -> Deploying
+* Campus -> Base
+* Graduating -> Honorable discharge
+* Program Committee -> Draft board
+* Strong Accept -> 1-A
+* Strong Reject -> 4-F
+* Non-academic -> Civilian
+* Lab -> Squad
+* Department -> Platoon
+* Lunch -> Rations
+* Paper under review -> Draft card
+* Missing a deadline -> Burning your draft card
+* Publication -> Medal
+* Call for papers -> Draft lottery
+* ACM / {your subfield's SIG here} -> Selective Service
+
+And here are some real word examples:
+
+"I just got my PhD and I'm going to start a postdoc" -> "I was honorably
+discharged but the civilian life isn't for me so I'm re-enlisting"
+
+"Did you get that sandwich on campus?  Do they sell it at the cafe in
+Stata?" -> "Woah, did you get those rations on base?  Do they have it at
+the mess hall in the barracks?"
+
+"My advisor wanted me to submit to SIGTBD and I spent a ton of time in
+my office but I still missed the deadline.  It probably would have been
+rejected anyway" -> "My CO want me to send my draft card to the draft
+board and I spent a ton of time in my bunk preparing but I burned my
+draft card instead.  I probably would have come up 4-F anyway" [1].
+
+"I forgot to register with SIGPLAN so now my conference dues are really
+high" -> "I forgot to register with the Selective Service so now I can't
+file the FAFSA and my tuition is really high"
+
+---
+
+1.  This admittedly makes no sense.  Why would you have to go in front
+of the draft board if you're already in the military?  Maybe my mapping
+isn't as robust as I initially thought.
+
+## New Offices ##
+
+With CSAIL rapidly growing, the question of where to put new grad
+students remains unanswered.  I propose the following locations:
+
+*  That metal box thing:
+
+    <img alt="metal office" src="{{site.baseurl}}/gsb/metal-office.jpg" width="100%"/>
+
+    This spacious office can fit 10 grad students if you pack them in tight
+enough.  Moreover the lack of windows will keep them from wasting time
+looking outside.
+
+* 9th floor stairs:
+
+    <img alt="metal office" src="{{site.baseurl}}/gsb/stair-office.jpg" width="100%"/>
+
+    Frank Gehry foresaw our space problems and added a helpful shelf to the
+9th floor stairwell.  The spot is large enough to fit a desk and a
+couple grad students.  Students lucky enough to be placed here can start
+their day with an exciting leap from the railing to their office.  The
+adrenaline rush that comes with knowing that messing this up could
+result in serious injury or death serves as a free substitute for a cup
+of coffee!
+
+* Senior House.  [MIT is turning Senior House into a grad
+  dorm](https://thetech.com/2017/07/13/senior-house-grad-dorm), but what grad
+student wants to live in an undergrad style dorm with common bathrooms?  CSAIL
+should metastasize across campus and seize Senior House for office space.
+
+## GSB's computing infrastructure needs your support! ##
+After selling half of our couch space, we've decided to put GSB behind a
+NAT.  This means that from now on you may not communicate directly to
+other GSB participants, but must instead communicate through a guy named
+Nat.  Nat has agreed to ferry messages between participants, so don't be
+surprised if everyone you talk to this week looks like Nat!
+
+If you wish to speak to people directly you must submit to us an
+application consisting of your:
+
+* Name
+* MIT ID
+* Date of birth
+* SSN
+* Mother's maiden name
+* Blood sample
+
+## Open Studios ##
+You may have heard that the CSAIL Open Studios event is coming up in
+October and you're probably thinking, "this is really cool, but I don't
+have the {time, skill} to make anything!"  Fear not!  Here are our
+helpful tips for participating in the upcoming event using only tools at
+the lab.
+
+* Graphics card art.  If your office is anything like mine it's littered
+with graphics cards from long gone grad students.  However, you can turn
+this digital waste into a pretty flower.  Imagine that all of the
+graphics cards are petals and glue them on an old conference poster from
+10 years ago.  Then, cut the cable from that PS/2 mouse sitting on your
+floor and make it a stem.  Stick and old CD-ROM [1] in the middle and
+you've got a nice graphics card sunflower.
+
+* That sheet of paper you've been using as a coaster for two years [2] has
+enough coffee stains on it to look like a Jackson Pollock painting.
+
+* Csail-related found poem.  A found poem is constructed by taking
+phrases exclusively from other sources and rearranging them.  Using
+csail-related as a source you can write countless poems about apartments
+in Central Square, the MIT administration, and many other things
+unrelated to CSAIL.
+
+---
+
+1. Preferably another grad student's mix tape
+2. Your SM diploma
+
+## Announcing CSAIL OpenID Connect Cache ##
+This week TIG rolled out OpenID Connect to replace client certificates.
+However, change is bad because it violates Satoshi's vision [1] so we're
+forking reality to construct a reality where CSAIL uses our
+implementation of OpenID Connect, called "OpenID Connect Cache."  On the
+day of the fork, please choose the reality you prefer and destroy
+yourself in the alternate reality.
+
+Here's how OpenID Connect Cache algorithm works:
+
+1.  Attempt to log in to a CSAIL service that requires credentials.
+2.  You'll be provided with a location in Stata to tap your MIT ID.
+3.  You have 60 seconds to tap your card on the appropriate reader.
+
+For example, if you're at GSB and you're told to authenticate yourself
+by tapping your card on the reader outside of the Dreyfoos tower you
+better book it.
+
+### Frequently Asked Questions ###
+
+Q: What if I want to authenticate while I'm off campus?  
+A: Wait, you can leave?
+
+Q: What if the split happens when I'm off campus?  
+A: Unfortunately if the reality split happens while off campus you may
+not have access to yourself in the OpenID Connect Cache reality.  Plan
+on moving yourself on campus before the fork.
+
+Q: Can you explain the name?  
+A: Sure. You authenticate yourself by *opening* your wallet, taking out
+your *ID*, and *connecting* it to a card reader.  Your authentication
+token is then *cached* for a few minutes so you don't have to repeat the
+process too frequently.
+
+Q: That's a really long name, can I please call it ocache?  
+A: Absolutely not.
+
+Q: You're really stretching this silly analogy.  
+A: You're banished from the OpenID Connect Cache reality.
+
+---
+
+1. Satoshi never envisioned a client certificate-less CSAIL.
+
+## Moving Compensation ##
+September 1st is only a week away, which means that anyone who is moving
+apartments will have to navigate the hell that comes from everyone in
+Boston moving on the same day.  Given this, many of you will likely have
+to lean on friends to help move everything through the chaos.  It feels
+weird to pay your friends, but it *is* socially acceptable (and
+encouraged) to pay them in beer.  With that in mind, here is the
+official GSB beer compensation table for various moving acts.  I've
+calibrated this table based on 4 (high end) beers for storing a friend's things
+at my place for a couple weeks, which felt fair to me.
+
+* Dropping a box, shattering everything inside: -6 beers
+* Moral support [1]: 1 beer
+* Carrying things: 6 beers
+* Borrowing a car: 6 beers
+* Furniture disassembly / reassembly: 12 beers
+* Piano moving: 24 beers / flight of stairs
+* Helping you get your rented truck unstuck from Storrow Drive: 2000 beers
+
+This table assumes you are buying standard craft beers.  Use the
+following conversion factors for other types of beer:
+
+* High end craft beers [2]:  Multiply by 2/3
+* Domestic macro beers:  Multiply by 2
+* Light beers:  No
+
+---
+
+1. Standing off to the side saying "you can do it!" without actually
+helping yourself.
+2.  The ones sold in 4 packs instead 6 packs

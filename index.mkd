@@ -4,7 +4,7 @@ layout: content
 title: home
 ---
 
-I am a second year PhD student studying Computer Science in the area of
+I am a third year PhD student studying Computer Science in the area of
 Programming Languages at MIT.
 My advisor is [Michael Carbin](http://people.csail.mit.edu/mcarbin/).
 

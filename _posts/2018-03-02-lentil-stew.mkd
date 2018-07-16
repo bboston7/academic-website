@@ -1,0 +1,85 @@
+---
+layout: post
+title: Lentil Stew for the Masses
+excerpt: A simple lentil stew recipe.
+---
+
+## Background ##
+
+I first received this lentil stew recipe from my Iranian grandmother a few
+years ago.
+Over the years, I've completely changed it and it now only shares two
+ingredients with the original recipe.
+In fact, the original recipe didn't even have lentils in it!
+Instead, it used the widely inferior kidney bean.
+I don't know if I would call it Persian food, even though a Persian passed the
+recipe down to me and it contains the secret Persian food ingredient (lemon).
+I hesitate to call it Persian food for a three reasons:
+
+1.  **It's spicy.**
+    Spicy in the sense that it's hot, not in that it's full of spice (it's
+    not).
+    Persian food provides the perfect base to add some heat, but for some
+    reason nobody does.
+    I guess it's more traditional not to, but I think a little (or a lot of)
+    heat could improve many Persian dishes.
+2.  **It's vegetarian.**
+    Technically, it's even vegan!
+    There isn't a lot of vegetarian Persian food out there.
+    Surely someone will email me reminding me that there is that one okra dish
+    and maybe an eggplant one but that's not the point.
+    Many of the Persian stews I grew up with have meat in them and if you order
+    them at a restraunt, they'll have meat in them too.
+    Once again, this is such an easy change  to make.
+    All you have to do is not add the meat, and instead add more of the beans,
+    split peas, lentils, or whatever other legume is already in the stew.
+3.  **I don't remember the third reason.**
+    I could have sworn I had one?
+    If I remember it I'll edit it in here.
+    Check back regularly.
+
+This recipe is great because it's one of those meals that you can make in under
+an hour, but still *feels* like you're making an involved meal.
+It's more than putting noodles in some boiling water, you know?
+
+Anyway, this dish is seriously good.
+I've made it for my parents (the most impartial judges), friends, and
+girlfriend before.
+In fact, when I told my mom I was going to be cooking dinner with my
+girlfriend, she said, "Oh, you should make that lentil thing."
+And we did.
+That's how good it is.
+
+## Internal Strife ##
+
+To be honest, I wasn't even sure whether to put this recipe on this blog or
+not.
+Isn't this supposed to be my professional, academic website?
+What does a recipe for lentil stew have to do with programming languages
+research?
+Should I make a new blog, just for this recipe?
+No way, that puts a lot of pressure on me to continue a recipe blog and there's
+no way I want to run one of those.
+Moreover, zero of the posts on this blog currently have anything to do with my
+research anyway.
+However, to compromise with myself, I will provide the big step semantics for
+lentil stew:
+
+
+    [L-STEW]
+
+    fresh(lentils)           fresh(onion)         fresh(lemon)
+    fresh(canola oil)        fresh(crushed red pepper)
+    I = (lentils, onion, lemon, canola oil, crushed red peper)
+    ----------------------------------------------------------
+                         |
+              cook(I)    V   lentil stew
+
+I know what you're thinking, "Gimmie those small steps!"
+No.
+Absolutely not.
+The small step semantics for lentil stew is just the recipe and that comes
+later.
+Besides, the concept of inference rules in a recipe was the joke and now it has
+been made.
+There's no way I'm writing up more than one of those rules.

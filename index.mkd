@@ -4,8 +4,11 @@ layout: content
 title: home
 ---
 
-I am a third year PhD student studying Computer Science in the area of
-Programming Languages at MIT.
+I am spending the Summer as a research intern at
+[Aarno Labs](http://aarno-labs.com/).
+
+I completed my Masters in Computer Science studying Programming Languages at
+MIT in 2018.
 My advisor is [Michael Carbin](http://people.csail.mit.edu/mcarbin/).
 
 Previously, I was at the University of Washington working with

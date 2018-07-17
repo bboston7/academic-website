@@ -1,3 +1,12 @@
+- title: "Leto: Verifying Application-Specific Fault Tolerance via First-Class Execution Models"
+  authors: Brett Boston, Zoe Gong, Michael Carbin
+  venue: OOPSLA 2018 (conditionally accepted)
+  type: conference
+  url: https://2018.splashcon.org/event/splash-2018-oopsla-leto-verifying-application-specific-fault-tolerance-via-first-class-execution-models
+  extra:
+    - "[arXiv.](https://arxiv.org/abs/1805.06090)"
+
+
 - title: Probability Type Inference for Flexible Approximate Programming
   authors: Brett Boston, Adrian Sampson, Dan Grossman, and Luis Ceze
   venue: OOPSLA 2015

@@ -4,14 +4,14 @@ layout: content
 title: home
 ---
 
-I am spending the Summer as a research intern at
-[Aarno Labs](http://aarno-labs.com/).
+I am a research engineer at [Aarno Labs](http://aarno-labs.com) where I work
+on computer security and formal methods.
 
 I completed my Masters in Computer Science studying Programming Languages at
-MIT in 2018.
-My advisor is [Michael Carbin](http://people.csail.mit.edu/mcarbin/).
+MIT in 2018 under my advisor
+[Michael Carbin](http://people.csail.mit.edu/mcarbin/).
 
-Previously, I was at the University of Washington working with
+Before that, I was at the University of Washington working with
 [Adrian Sampson](http://adriansampson.net)
 under [Dan Grossman](http://homes.cs.washington.edu/~djg/) and
 [Luis Ceze](http://homes.cs.washington.edu/~luisceze/).

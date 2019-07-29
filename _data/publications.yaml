@@ -1,10 +1,10 @@
-- title: "Leto: Verifying Application-Specific Fault Tolerance via First-Class Execution Models"
+- title: "Leto: Verifying Application-Specific Hardware Fault Tolerance with Programmable Execution Models"
   authors: Brett Boston, Zoe Gong, Michael Carbin
   venue: OOPSLA 2018
   type: conference
-  url: https://2018.splashcon.org/event/splash-2018-oopsla-leto-verifying-application-specific-fault-tolerance-via-first-class-execution-models
+  url: https://dl.acm.org/authorize?N689496
   extra:
-    - "[arXiv.](https://arxiv.org/abs/1805.06090)"
+    - "[Video.](https://www.youtube.com/watch?v=_HQUZB4U0hg)"
 
 
 - title: Probability Type Inference for Flexible Approximate Programming

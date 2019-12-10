@@ -1,7 +1,6 @@
 name: Brett Boston
 email: "boston@csail.mit.edu"
-baseurl: /boston
-url: https://people.csail.mit.edu
+url: https://brettboston.net
 author: Brett Boston
 gpg: "https://pgp.mit.edu/pks/lookup?op=get&search=0x3B5EEFF7D9FC90810F20298B60845A5540A2F138"
 

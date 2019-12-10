@@ -5,7 +5,7 @@ title: home
 ---
 
 I am a research engineer at [Aarno Labs](http://aarno-labs.com) where I work
-on computer security and formal methods.
+on computer security.
 
 I completed my Masters in Computer Science studying Programming Languages at
 MIT in 2018 under my advisor

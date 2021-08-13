@@ -1,3 +1,9 @@
+- title: "Verified Cryptographic Code for Everybody"
+  authors: Brett Boston, Samuel Breese, Joey Dodds, Mike Dodds, Brian Huffman, Adam Petcher, and Andrei Stefanescu
+  venue: CAV 2021
+  type: conference
+  url: https://link.springer.com/chapter/10.1007/978-3-030-81685-8_31
+
 - title: "Leto: Verifying Application-Specific Hardware Fault Tolerance with Programmable Execution Models"
   authors: Brett Boston, Zoe Gong, Michael Carbin
   venue: OOPSLA 2018

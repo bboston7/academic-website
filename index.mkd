@@ -4,8 +4,10 @@ layout: content
 title: home
 ---
 
-I am a research engineer at [Aarno Labs](http://aarno-labs.com) where I work
-on computer security.
+I am a research engineer at [Galois](https://galois.com) where I work
+on Programming Languages, Software Assurance, and Computer Security.
+Before joining Galois, I worked as a research engineer at
+[Aarno Labs](http://aarno-labs.com).
 
 I completed my Masters in Computer Science studying Programming Languages at
 MIT in 2018 under my advisor

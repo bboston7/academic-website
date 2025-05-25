@@ -4,10 +4,14 @@ layout: content
 title: home
 ---
 
-I am a research engineer at [Galois](https://galois.com) where I work
-on Programming Languages, Software Assurance, and Computer Security.
-Before joining Galois, I worked as a research engineer at
-[Aarno Labs](http://aarno-labs.com).
+I am a software engineer at the [Stellar Development
+Foundation](https://stellar.org) where I primarily work on peer-to-peer
+networking and consensus for [Stellar
+Core](https://github.com/stellar/stellar-core).
+
+I have previously worked as a research engineer focused on Programming
+Languages, Software Assurance, and Computer Security at both
+[Galois](https://galois.com) and [Aarno Labs](http://aarno-labs.com).
 
 I completed my Masters in Computer Science studying Programming Languages at
 MIT in 2018 under my advisor
